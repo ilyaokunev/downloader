@@ -1,0 +1,33 @@
+.body {
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.workspace {
+  width:40vw;
+   height: 20vh;
+    background-color: rgb(186, 186, 186);
+    margin: 10vh auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+    border-radius: 10px;
+}
+
+.download-input {
+  width:80%;
+  margin: 50px auto;
+}
+
+.link {
+  display: block;
+  background-color: darkcyan;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.iframe-container {
+  display: flex;
+  justify-content: center;
+}
